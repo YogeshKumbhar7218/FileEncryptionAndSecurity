@@ -1,0 +1,53 @@
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\bin\Debug\netcoreapp3.1\appsettings.json
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\bin\Debug\netcoreapp3.1\File Encryption backend.exe
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\bin\Debug\netcoreapp3.1\File Encryption backend.deps.json
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\bin\Debug\netcoreapp3.1\File Encryption backend.runtimeconfig.json
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\bin\Debug\netcoreapp3.1\File Encryption backend.runtimeconfig.dev.json
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\bin\Debug\netcoreapp3.1\File Encryption backend.dll
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\bin\Debug\netcoreapp3.1\File Encryption backend.pdb
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\bin\Debug\netcoreapp3.1\File Encryption backend.Views.dll
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\bin\Debug\netcoreapp3.1\File Encryption backend.Views.pdb
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\obj\Debug\netcoreapp3.1\File Encryption backend.csproj.AssemblyReference.cache
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\obj\Debug\netcoreapp3.1\File Encryption backend.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\obj\Debug\netcoreapp3.1\File Encryption backend.AssemblyInfoInputs.cache
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\obj\Debug\netcoreapp3.1\File Encryption backend.AssemblyInfo.cs
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\obj\Debug\netcoreapp3.1\File Encryption backend.csproj.CoreCompileInputs.cache
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\obj\Debug\netcoreapp3.1\File Encryption backend.MvcApplicationPartsAssemblyInfo.cache
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\obj\Debug\netcoreapp3.1\File Encryption backend.RazorAssemblyInfo.cache
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\obj\Debug\netcoreapp3.1\File Encryption backend.RazorAssemblyInfo.cs
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\obj\Debug\netcoreapp3.1\staticwebassets\File Encryption backend.StaticWebAssets.Manifest.cache
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\obj\Debug\netcoreapp3.1\staticwebassets\File Encryption backend.StaticWebAssets.Pack.cache
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.File Encryption backend.Microsoft.AspNetCore.StaticWebAssets.props
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.File Encryption backend.props
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.File Encryption backend.props
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.File Encryption backend.props
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\obj\Debug\netcoreapp3.1\File Encryption backend.TagHelpers.input.cache
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\obj\Debug\netcoreapp3.1\File Encryption backend.TagHelpers.output.cache
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\obj\Debug\netcoreapp3.1\File Encryption backend.RazorCoreGenerate.cache
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\obj\Debug\netcoreapp3.1\File Encryption backend.RazorTargetAssemblyInfo.cache
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\obj\Debug\netcoreapp3.1\File Encryption backend.RazorTargetAssemblyInfo.cs
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\obj\Debug\netcoreapp3.1\File Encryption backend.Views.pdb
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\obj\Debug\netcoreapp3.1\File Encryption backend.dll
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\obj\Debug\netcoreapp3.1\File Encryption backend.pdb
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\obj\Debug\netcoreapp3.1\File Encryption backend.genruntimeconfig.cache
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\obj\Debug\netcoreapp3.1\File Encryption backend.csproj.CopyComplete
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+Y:\Temp\File Encryption\File Encryption backend\File Encryption backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
